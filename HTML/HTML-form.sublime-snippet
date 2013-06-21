@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<form method="${1:POST}" action="${2:<?php echo \$PHP_SELF;?>}">
+	${3}
+</form>
+]]></content>
+	<tabTrigger>form</tabTrigger>
+	<description>php form</description>
+	<scope>text.html</scope>
+</snippet>
