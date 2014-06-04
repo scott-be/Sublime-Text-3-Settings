@@ -1,4 +1,4 @@
-Sublime-Text-2-Settings
+Sublime-Text-3-Settings
 =======================
 
-My ST2 Settings
+My ST3 Settings
