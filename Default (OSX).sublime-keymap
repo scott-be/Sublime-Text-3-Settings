@@ -1,4 +1,7 @@
 [
+    // Sublime-surround
+    { "keys": ["super+ctrl+e"], "command": "surround_selection"},
+
     // Delete Line
     { "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
 
