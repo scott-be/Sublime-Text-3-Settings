@@ -5,12 +5,6 @@
 	// Swap Case
 	{ "keys": ["ctrl+k", "ctrl+s"], "command": "swap_case" },
 
-	// Move line up
-	{ "keys": ["ctrl+shift+p"], "command": "swap_line_up" },
-
-	// Move line down
-	{ "keys": ["ctrl+shift+n"], "command": "swap_line_down" },
-
 	// Jump out of ), ", and ] -- http://www.sublimetext.com/forum/viewtopic.php?f=2&t=4909&p=22059#p22059
 	{ "keys": ["tab"], "command": "move", "args": {"by": "characters", "forward": true}, "context":
 	    [
