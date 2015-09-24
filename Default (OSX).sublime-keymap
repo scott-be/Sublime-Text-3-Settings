@@ -40,7 +40,7 @@
         { "keys": ["ctrl+alt+super+w"], "command": "wrap_brackets" },
         
         // Select text between brackets
-        { "no_outside_adj": true, "keys": ["ctrl+alt+super+s"], "command": "bh_key", "args": {
+        { "no_outside_adj": true, "keys": ["ctrl+super+space"], "command": "bh_key", "args": {
                 "lines" : true,
                 "plugin": {
                     "type": ["__all__"],
