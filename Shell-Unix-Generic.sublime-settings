@@ -1,0 +1,4 @@
+{
+	// Disable tab completion
+	"auto_complete": false
+}
