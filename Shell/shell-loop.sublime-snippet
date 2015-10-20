@@ -1,7 +1,8 @@
 <snippet>
 	<content><![CDATA[
-while read line || [[ -n \$line ]]; do
+while ((count++)); read line || [[ -n \$line ]]; do
   eval ${1:COMMAND} \$line
+  echo \$count
 done < ${2:FILE}
 ]]></content>
 	<tabTrigger>loop</tabTrigger>
