@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+while read line || [[ -n \$line ]]; do
+  eval ${1:COMMAND} \$line
+done < ${2:FILE}
+]]></content>
+	<tabTrigger>loop</tabTrigger>
+	<scope>source.shell</scope>
+	<description>Loop file contents</description>
+</snippet>
