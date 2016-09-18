@@ -6,12 +6,14 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Arduino-like IDE",
 		"BracketHighlighter",
 		"Emmet",
 		"Package Control",
 		"PlainTasks",
 		"SideBarEnhancements",
 		"SublimeGit",
-		"Surround"
+		"Surround",
+		"Trimmer"
 	]
 }
