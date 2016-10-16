@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ANSIescape",
 		"Arduino-like IDE",
 		"Base Encoder",
 		"BracketHighlighter",
