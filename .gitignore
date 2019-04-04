@@ -9,3 +9,4 @@ Package Control.user-ca-bundle
 *.cache
 *.crt
 *.tmTheme
+.DS_Store
