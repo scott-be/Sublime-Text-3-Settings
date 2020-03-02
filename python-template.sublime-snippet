@@ -4,10 +4,10 @@
 import sys
 
 def main(argv):
-	${1}
+	${1:pass}
 
 if __name__ == "__main__":
-    main(sys.argv) 
+    main(sys.argv)
 ]]></content>
 	<tabTrigger>template</tabTrigger>
 	<scope>source.python</scope>
