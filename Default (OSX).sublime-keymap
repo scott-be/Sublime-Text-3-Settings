@@ -84,5 +84,7 @@
                     "command" : "bh_modules.foldbracket"
                 }
             }
-        }
+        },
+        // Custom Timestamp Plugin
+        { "keys": ["ctrl+t"], "command": "timestamp" }
 ]

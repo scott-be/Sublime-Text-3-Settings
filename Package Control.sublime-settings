@@ -5,19 +5,30 @@
 	],
 	"installed_packages":
 	[
+		"10% Too Dull for My Tastes Color Scheme",
 		"Alignment",
 		"ANSIescape",
 		"Base Encoder",
 		"BracketHighlighter",
 		"Color Scheme - Legacy",
+		"Email Header",
+		"EML (E-Mail)",
 		"Emmet",
+		"Generic Config",
 		"Highlight",
+		"Indent XML",
+		"INI",
+		"MarkdownEditing",
 		"Package Control",
 		"PlainTasks",
+		"PowerShell",
 		"Pretty JSON",
+		"RawLineEdit",
 		"SideBarEnhancements",
+		"Splunk Syntax",
 		"SublimeGit",
 		"Surround",
-		"Trimmer"
-	]
+		"Trimmer",
+		"VBScript"
+	],
 }

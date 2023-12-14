@@ -1,0 +1,5 @@
+[
+    // Indent using mouse
+    { "button": "button5", "command": "indent" },
+    { "button": "button4", "command": "unindent" }
+]

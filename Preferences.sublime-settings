@@ -1,14 +1,18 @@
 {
-	"color_scheme": "Packages/User/tomorrow-theme /Tomorrow-Night.tmTheme",
+	"color_scheme": "Mariana.sublime-color-scheme",
 	"enable_hexadecimal_encoding": false,
 	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
 	"scroll_past_end": true,
 	"tab_completion": false,
-	"theme": "Default.sublime-theme",
-	"trim_automatic_white_space": false
+	// "theme": "Default.sublime-theme",
+	"theme": "auto",
+	"trim_automatic_white_space": false,
+	"index_files": true,
+	"update_check": false,
+	"mde.auto_fold_link.enabled": false
 }

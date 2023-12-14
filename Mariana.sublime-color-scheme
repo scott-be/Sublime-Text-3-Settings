@@ -1,0 +1,11 @@
+// SBMod - This patch for Mariana.sublime-color-scheme
+{
+    "rules": [
+        {
+            "name": "markup links",
+            // Scott Mod: Add "punctuation.separator.path.markdown"
+            "scope": "string.other.link, markup.underline.link, punctuation.separator.path.markdown",
+            "foreground": "var(blue)"
+        },
+    ]
+}

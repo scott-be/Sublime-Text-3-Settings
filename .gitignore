@@ -10,3 +10,4 @@ Package Control.user-ca-bundle
 *.crt
 *.tmTheme
 .DS_Store
+ANSIescape/*
